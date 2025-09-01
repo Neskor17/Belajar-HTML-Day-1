@@ -4,7 +4,7 @@
 [![HTML Badge](https://img.shields.io/badge/Code-HTML-orange?style=for-the-badge&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
-Repository ini berisi hasil belajar saya dalam mengikuti **Kursus HTML Master Class**.  
+Repository ini berisi hasil belajar saya dalam mengikuti **Kursus Frontend Masters Bootcamp - Introduction to HTML**.  
 Di sini saya mendokumentasikan progres pembelajaran HTML dari dasar, sekaligus membangun portofolio kecil dalam bentuk proyek sederhana.
 
 Saya juga telah menyelesaikan kursus ini dan memperoleh **sertifikat kelulusan**, sebagai bukti kompetensi dasar dalam pengembangan web.
@@ -13,7 +13,7 @@ Saya juga telah menyelesaikan kursus ini dan memperoleh **sertifikat kelulusan**
 
 ## ✨ Isi Repository
 - `index.html` → Halaman utama
-- File pendukung (CSS, JS, dan asset) untuk latihan
+- File pendukung (asset) untuk latihan
 - Dokumentasi progres belajar harian
 
 ---
@@ -32,7 +32,7 @@ Hasil latihan ini dapat diakses secara langsung melalui GitHub Pages:
 ---
 
 ## 📜 Sertifikat
-Saya memperoleh sertifikat setelah menyelesaikan kursus **HTML Master Class**, yang memperkuat kemampuan dasar saya dalam HTML dan pembuatan halaman web.
+Saya memperoleh sertifikat setelah menyelesaikan kursus **Frontend Masters Bootcamp - Introduction to HTML**, yang memperkuat kemampuan dasar saya dalam HTML dan pembuatan halaman web.
 
 
 ![Sertifikat Frontend Masters Bootcamp](sertif-fm-html.png)

@@ -35,7 +35,7 @@ Hasil latihan ini dapat diakses secara langsung melalui GitHub Pages:
 Saya memperoleh sertifikat setelah menyelesaikan kursus **HTML Master Class**, yang memperkuat kemampuan dasar saya dalam HTML dan pembuatan halaman web.
 
 
-![Sertifikat Frontend Masters Bootcamp](sertif.FM-HTML boothcamp.png)
+![Sertifikat Frontend Masters Bootcamp](sertif-fm-html.png)
 
 
 ---
